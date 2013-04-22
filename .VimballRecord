@@ -1,0 +1,5 @@
+DrawIt.vba: call delete('/home/longan.rtb/.vim/plugin/DrawItPlugin.vim	[[[1')|call delete('/home/longan.rtb/.vim/plugin/cecutil.vim	[[[1')|call delete('/home/longan.rtb/.vim/autoload/DrawIt.vim	[[[1')|call delete('/home/longan.rtb/.vim/doc/DrawIt.txt	[[[1')
+drawit.vba: call delete('/home/longan.rtb/.vim/plugin/DrawItPlugin.vim	[[[1')|call delete('/home/longan.rtb/.vim/plugin/cecutil.vim	[[[1')|call delete('/home/longan.rtb/.vim/autoload/DrawIt.vim	[[[1')|call delete('/home/longan.rtb/.vim/doc/DrawIt.txt	[[[1')
+di.vba: call delete('/home/longan.rtb/.vim/plugin/DrawItPlugin.vim')|call delete('/home/longan.rtb/.vim/plugin/cecutil.vim')|call delete('/home/longan.rtb/.vim/autoload/DrawIt.vim')|call delete('/home/longan.rtb/.vim/doc/DrawIt.txt')
+Drawit.vba: call delete('/home/longan.rtb/.vim/plugin/DrawItPlugin.vim')|call delete('/home/longan.rtb/.vim/plugin/cecutil.vim')|call delete('/home/longan.rtb/.vim/autoload/DrawIt.vim')|call delete('/home/longan.rtb/.vim/doc/DrawIt.txt')
+supertab.vmb: call delete('/home/longan.rtb/.vim/doc/supertab.txt')|call delete('/home/longan.rtb/.vim/plugin/supertab.vim')

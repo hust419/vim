@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/admin/web/htdocs/longan-s8'
+let g:netrw_dirhist_2='/home/admin/web/htdocs/longan'
+let g:netrw_dirhist_3='/home/admin/web/htdocs/longan/conf/cluster.d'
+let g:netrw_dirhist_4='/home/admin/web/htdocs/longan-mido/admin/trunk/protected/controllers'
+let g:netrw_dirhist_5='/home/longan/project/taobao.bak/discount'
+let g:netrw_dirhist_6='/home/longan/project/taoke/conf'
+let g:netrw_dirhist_7='/home/longan/project/mido/easytrace/factory'
